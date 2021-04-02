@@ -54,8 +54,8 @@ module.exports = {
   // Medium, GitHub, LinkedIn, XING, Behance, E-Mail
   socialMedia: [
     {
-      name: "Linkedin",
-      url: "https://www.linkedin.com/in/konstantin-muenster/",
+      name: "LinkedIn",
+      url: "https://www.linkedin.com/in/adam-djebar-853ba8198/",
     },
     {
       name: "Medium",
