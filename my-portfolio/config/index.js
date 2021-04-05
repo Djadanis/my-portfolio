@@ -13,18 +13,6 @@ module.exports = {
   // -- THEME SETTINGS -----
   colors: {
     lightTheme: {
-      primary: "#000000",
-      secondary: "#FFF4D9",
-      tertiary: "#F2F2F2",
-      text: "#000000",
-      subtext: "#555555",
-      background: "#FFFFFF",
-      card: "#FFFFFF",
-      scrollBar: "rgba(0, 0, 0, 0.5)",
-      boxShadow: "rgba(0, 0, 0, 0.16)",
-      boxShadowHover: "rgba(0, 0, 0, 0.32)",
-    },
-    darkTheme: {
       primary: "#FAFAFA",
       secondary: "#2A2926",
       tertiary: "#252525",
@@ -33,6 +21,18 @@ module.exports = {
       background: "#121212",
       card: "#1C1C1C",
       scrollBar: "rgba(255, 255, 255, 0.5)",
+      boxShadow: "rgba(0, 0, 0, 0.16)",
+      boxShadowHover: "rgba(0, 0, 0, 0.32)",
+    },
+    darkTheme: {
+      primary: "#000000",
+      secondary: "#FFF4D9",
+      tertiary: "#F2F2F2",
+      text: "#000000",
+      subtext: "#555555",
+      background: "#FFFFFF",
+      card: "#FFFFFF",
+      scrollBar: "rgba(0, 0, 0, 0.5)",
       boxShadow: "rgba(0, 0, 0, 0.16)",
       boxShadowHover: "rgba(0, 0, 0, 0.32)",
     },
@@ -64,12 +64,12 @@ module.exports = {
     {
       name: "Github",
       url:
-        "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal",
+        "https://github.com/Djadanis",
     },
-    {
-      name: "Behance",
-      url: "https://www.behance.net/konstanmnster",
-    },
+    //{
+    //  name: "Behance",
+    //  url: "https://www.behance.net/konstanmnster",
+    //},
     // {
     //   name: "Mail",
     //   url: "mailto:mail@konstantin.digital",
